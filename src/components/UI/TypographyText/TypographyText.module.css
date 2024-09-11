@@ -1,0 +1,9 @@
+.text {
+  font-size: 20px;
+  font-weight: 30px;
+  margin-top: var(--spacing-medium);
+  margin-bottom: var(--spacing-medium);
+  color: black;
+  font-weight: 600;
+}
+
